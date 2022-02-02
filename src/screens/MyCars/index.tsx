@@ -50,7 +50,9 @@ export function MyCars(){
    }
    
    async function DeleteRental(id: string) {
+      setLoading(true);
       await api.delete(`schedules_byuser/${id}`)
+      setLoading(false);
    }
 
    function HandleAlertDeleteRental(id: string, car:string){
@@ -76,7 +78,7 @@ export function MyCars(){
          }
       }
       fetchCars();
- },[DeleteRental]));
+ },[loading]));
 
    return (
       <Container>
@@ -92,9 +94,8 @@ export function MyCars(){
             />
 
             <Title>
-                Escolha uma {`\n`}
-                data de início e {`\n`}
-                fim do aluguel {`\n`}
+               Seus agendamentos,{`\n`}
+               estão aqui.
             </Title>
 
             <SubTitle>Conforto, segurança e praticidade</SubTitle>
