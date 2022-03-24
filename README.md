@@ -31,11 +31,13 @@ O projeto foi criado utilizando as seguintes tecnologias:
 ## 🚀 Dashboard e Agendamentos:
 
 
+![2022-02-02_11h02_12](https://user-images.githubusercontent.com/58046326/152170893-49a55e8c-8710-46ea-b4ad-a3ebbb9db8ac.gif)
 
 
 
 ## 🚀 Controle de Agendamentos:
 
+![2022-02-02_11h01_09](https://user-images.githubusercontent.com/58046326/152170912-bdd707bd-7e35-4373-880a-d67bf9181565.gif)
 
 
 
