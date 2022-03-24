@@ -28,16 +28,22 @@ O projeto foi criado utilizando as seguintes tecnologias:
 
 <br />
 
-## 🚀 Dashboard e Agendamentos:
+## 🚀 Dashboard e Detalhes dos Carros:
+
+![2022-03-24_09h08_46](https://user-images.githubusercontent.com/58046326/159913140-5d4a3aad-aa30-4aed-8f97-4f640b39aa62.gif)
 
 
-![2022-02-02_11h02_12](https://user-images.githubusercontent.com/58046326/152170893-49a55e8c-8710-46ea-b4ad-a3ebbb9db8ac.gif)
+
+## 🚀 Realizando Agendamento:
+
+![2022-03-24_09h09_37](https://user-images.githubusercontent.com/58046326/159913269-2f31496d-e4f9-4c2b-82f5-39e86b7ba464.gif)
 
 
 
 ## 🚀 Controle de Agendamentos:
 
-![2022-02-02_11h01_09](https://user-images.githubusercontent.com/58046326/152170912-bdd707bd-7e35-4373-880a-d67bf9181565.gif)
+![2022-03-24_08h57_07](https://user-images.githubusercontent.com/58046326/159912195-84606a08-680c-4a96-be4d-2eb4baac5e9f.gif)
+
 
 
 
