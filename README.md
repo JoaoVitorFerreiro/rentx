@@ -15,13 +15,15 @@ O projeto foi criado utilizando as seguintes tecnologias:
 
 
 ## 📚 Libs Utilizadas:
-- Date-fns
-- React-native-gesture-handler
-- Styled-components
-- react-navigation
 - axios
+- Date-fns
+- lottie
+- react-native-gesture-handler
+- react-navigation
 - react-native-iphone-x-helper
 - react-native-svg
+- react-native-reanimated
+- Styled-components
 
 
 <br />
