@@ -4,26 +4,48 @@
 
 ## 🔖 Sobre
 
-O projeto **RocketHelp** foi construindo com React Native com o objetivo de oferecer uma plataforma suporte, onde o usuário pode criar solicitações e responder com a solução do problema solicitado.
+O projeto **Rentx** foi construindo com React Native com o objetivo de oferecer uma plataforma de agendamentos de aluguel de veiculos.
 
 
 ## 🚀 Tecnologias Utilizadas:
 O projeto foi criado utilizando as seguintes tecnologias:
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
-- [Firebase](https://firebase.google.com/)
+- [API - JSON Server](https://www.npmjs.com/package/json-server)
 
 
-## 📚 Tech Stack:
-
+## 📚 Libs Utilizadas:
+- axios
+- Date-fns
+- lottie
+- react-native-gesture-handler
+- react-navigation
+- react-native-iphone-x-helper
+- react-native-svg
+- react-native-reanimated
+- Styled-components
 
 
 <br />
 
-## 🚀 Minhas alterações:
+## 🚀 Dashboard e Agendamentos:
+
+
+![2022-02-02_11h02_12](https://user-images.githubusercontent.com/58046326/152170893-49a55e8c-8710-46ea-b4ad-a3ebbb9db8ac.gif)
+
+
+
+## 🚀 Controle de Agendamentos:
+
+![2022-02-02_11h01_09](https://user-images.githubusercontent.com/58046326/152170912-bdd707bd-7e35-4373-880a-d67bf9181565.gif)
+
+
+
+---
+
 
 <br />
 
-[Layout](https://www.figma.com/file/YW8Sjzi1lBCqFc4cO5EKU2/Ignite-Lab-de-React-Native-20k22-(Copy)?node-id=37%3A6) Desenvolvido pela Rocketseat no curso ignite 💜.
+[Layout](https://www.figma.com/file/4ojyGi2mGuQaGK0sUHMAqB/RentX-Ignite?node-id=0%3A1) Desenvolvido pela Rocketseat no curso ignite 💜.
 
 
